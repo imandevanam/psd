@@ -1,0 +1,11 @@
+.navbar-brand {
+  padding-top: 14px;
+  padding-left: 20px;
+}
+a {
+  text-decoration: none;
+  color: white
+}
+.navbar-start {
+  margin-left: 190px;
+}
